@@ -1,0 +1,4 @@
+[
+    { "id": "mortgage-lifter", "name": "Mortgage Lifter", "days_to_maturity": 85, "type": "beefsteak", "color": "pink" },
+    { "id": "cherokee-purple", "name": "Cherokee Purple", "days_to_maturity": 80, "type": "beefsteak", "color": "purple" }
+]
