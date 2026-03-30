@@ -1,0 +1,21 @@
+{
+    "id": "queen-of-the-night",
+    "name": "Queen of the Night",
+    "scientific_name": "Solanum lycopersicum",
+    "days_to_maturity": 85,
+    "type": "beefsteak",
+    "color": "pink",
+    "flavor_profile": "sweet, low-acid, meaty",
+    "fruit_size_oz": 24,
+    "indeterminate": true,
+    "disease_resistance": ["fusarium"],
+    "source": "Baker Creek",
+    "hardiness_zones": ["5", "6", "7", "8"],
+    "notes": "",
+    "growing": {
+        "start_before_frost_weeks": 8,
+        "transplant_after_frost_weeks": 2,
+        "spacing_inches": 36,
+        "support": "cage or stake"
+    }
+}

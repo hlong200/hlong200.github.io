@@ -1,0 +1,21 @@
+{
+    "id": "amish-paste",
+    "name": "Amish Paste",
+    "scientific_name": "Solanum lycopersicum",
+    "days_to_maturity": 80,
+    "type": "roma",
+    "color": "mild red",
+    "flavor_profile": "sweet, low-acid, meaty",
+    "fruit_size_oz": 24,
+    "indeterminate": true,
+    "disease_resistance": ["fusarium"],
+    "source": "Baker Creek",
+    "hardiness_zones": ["5", "6", "7", "8"],
+    "notes": "Delicious red flesh for paste and canning.",
+    "growing": {
+        "start_before_frost_weeks": 8,
+        "transplant_after_frost_weeks": 2,
+        "spacing_inches": 24,
+        "support": "cage or stake"
+    }
+}

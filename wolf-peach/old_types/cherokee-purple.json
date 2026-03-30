@@ -1,0 +1,21 @@
+{
+    "id": "cherokee-purple",
+    "name": "Cherokee Purple",
+    "scientific_name": "Solanum lycopersicum",
+    "days_to_maturity": 80,
+    "type": "beefsteak",
+    "color": "purple",
+    "flavor_profile": "sweet, low-acid, meaty",
+    "fruit_size_oz": 12,
+    "indeterminate": true,
+    "disease_resistance": ["fusarium"],
+    "source": "Baker Creek",
+    "hardiness_zones": ["5", "6", "7", "8"],
+    "notes": "Pre-1890 variety of Cherokee heritage",
+    "growing": {
+        "start_before_frost_weeks": 8,
+        "transplant_after_frost_weeks": 2,
+        "spacing_inches": 24,
+        "support": "cage or stake"
+    }
+}
