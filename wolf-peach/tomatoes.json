@@ -1,9 +1,0 @@
-[
-    { "id": "mortgage-lifter", "name": "Mortgage Lifter", "days_to_maturity": 85, "type": "beefsteak", "color": "pink" },
-    { "id": "cherokee-purple", "name": "Cherokee Purple", "days_to_maturity": 80, "type": "beefsteak", "color": "purple" },
-    { "id": "alices-dream", "name": "Alice's Dream", "days_to_maturity": 80, "type": "beefsteak", "color": "golden" },
-    { "id": "true-black-brandywine", "name": "True Black Brandywine", "days_to_maturity": 90, "type": "beefsteak", "color": "blackish-purple" },
-    { "id": "riesentraube", "name": "Riesentraube", "days_to_maturity": 85, "type": "cherry", "color": "red" },
-    { "id": "queen-of-the-night", "name": "Queen of the Night", "days_to_maturity": 80, "type": "cherry", "color": "ebony, crimson, and orange" },
-    { "id": "amish-paste", "name": "Amish Paste", "days_to_maturity": 80, "type": "roma", "color": "mild red" }
-]
